@@ -4,8 +4,7 @@ Single interactive CLI for **decoding, verifying, brute-forcing and re-encoding*
 
 **Location:** 
 ```
-/home/kali/TOOLS/sess_enc_dec/universal-cookie-tool.py
-/home/kali/TOOLS/universal-cookie-tool.py  (synced copy)
+/universal-cookie-tool.py
 ```
 Run from either:
 ```bash
